@@ -35,20 +35,27 @@ My research interest includes pansharpening, multi-source image fusion and detec
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Pan-sharpening via deep metric learning](https://www.sciencedirect.com/science/article/pii/S0924271618300212) **Yinghui Xing**, Min Wang, Shuyuan Yang, Licheng Jiao, **ISPRS Journal of Photogrammetry and Remote Sensing**, 2018. 
+[Pan-sharpening via deep metric learning](https://www.sciencedirect.com/science/article/pii/S0924271618300212)
+**Yinghui Xing**, Min Wang, Shuyuan Yang, Licheng Jiao, **ISPRS Journal of Photogrammetry and Remote Sensing**, 2018. 
 
-%[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-%- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+{%[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div>%}
 
-- [Dual modality prompt tuning for vision-language pre-trained model](https://ieeexplore.ieee.org/abstract/document/10171397), **Yinghui Xing**, Qirui Wu, De Cheng, Shizhou Zhang, Guoqiang Liang, Peng Wang, Yanning Zhang, **IEEE Transactions on Multimedia**, 2024.
-[**Project**](https://github.com/fanrena/DPT) 
+- [Dual modality prompt tuning for vision-language pre-trained model](https://ieeexplore.ieee.org/abstract/document/10171397)
+**Yinghui Xing**, Qirui Wu, De Cheng, Shizhou Zhang, Guoqiang Liang, Peng Wang, Yanning Zhang, **IEEE Transactions on Multimedia**, 2024.
+[**Code**](https://github.com/fanrena/DPT) 
 
-- [Pansharpening with multiscale geometric support tensor machine](https://ieeexplore.ieee.org/abstract/document/8295005/), **Yinghui Xing**, Min Wang, Shuyuan Yang, Kai Zhang, **IEEE Transactions on Geoscience and Remote Sensing**, 2022.
+- [Pansharpening with multiscale geometric support tensor machine](https://ieeexplore.ieee.org/abstract/document/8295005/)
+**Yinghui Xing**, Min Wang, Shuyuan Yang, Kai Zhang, **IEEE Transactions on Geoscience and Remote Sensing**, 2018.
 
-- [Empower Generalizability for Pansharpening Through Text-Modulated Diffusion Model](), **Yinghui Xing**, Litao Qu, Shizhou Zhang, Jiapeng Feng, Xiuwei Zhang, Yanning Zhang, **IEEE Transactions on Geoscience and Remote Sensing**, 2024.
-[**Project**](https://github.com/codgodtao/TMDiff) 
+- [Empower Generalizability for Pansharpening Through Text-Modulated Diffusion Model]()
+**Yinghui Xing**, Litao Qu, Shizhou Zhang, Jiapeng Feng, Xiuwei Zhang, Yanning Zhang, **IEEE Transactions on Geoscience and Remote Sensing**, 2024.
+[**Code**](https://github.com/codgodtao/TMDiff) 
+
+- [Dual-collaborative fusion model for multispectral and panchromatic image fusion](https://ieeexplore.ieee.org/abstract/document/9310712)
+**Yinghui Xing**, Shuyuan Yang, Zhixi Feng, Licheng Jiao, **IEEE Transactions on Geoscience and Remote Sensing**, 2022.
 
 
 
