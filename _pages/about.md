@@ -23,6 +23,7 @@ My research interest includes pansharpening, multi-source image fusion and detec
 
 
 # 🔥 News
+- *2024.09.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP.
 - *2024.07.22*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. 
 - *2024.07.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TITS.
 - *2024.07.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TMM.
@@ -32,16 +33,16 @@ My research interest includes pansharpening, multi-source image fusion and detec
 
 # 📝 Publications 
 
-{%<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">%}
+{!--{%<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">%}--}
 
 [Pan-sharpening via deep metric learning](https://www.sciencedirect.com/science/article/pii/S0924271618300212)
 **Yinghui Xing**, Min Wang, Shuyuan Yang, Licheng Jiao, **ISPRS Journal of Photogrammetry and Remote Sensing**, 2018. 
 
-{%[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+{!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>%}
+</div>--}
 
 - [Dual modality prompt tuning for vision-language pre-trained model](https://ieeexplore.ieee.org/abstract/document/10171397)
 **Yinghui Xing**, Qirui Wu, De Cheng, Shizhou Zhang, Guoqiang Liang, Peng Wang, Yanning Zhang, **IEEE Transactions on Multimedia**, 2024.
@@ -61,16 +62,9 @@ My research interest includes pansharpening, multi-source image fusion and detec
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.05* I was selected for the Youth Talent Support Program of the Xi'an Association for Science and Technology. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.07 - now*, School of Computer Science, Northwestern Polytechnical University.
+- *2014.09 - 2020.06 (now)*, School of Artifical Intelligence, Xidian University.
+- *2010.09 - 2014.06*, School of Electronic Engineering, Xidian University. 
