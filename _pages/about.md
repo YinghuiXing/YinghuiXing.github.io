@@ -33,7 +33,7 @@ My research interest includes pansharpening, multi-source image fusion and detec
 
 # 📝 Publications 
 
-[Pan-sharpening via deep metric learning](https://www.sciencedirect.com/science/article/pii/S0924271618300212)
+- [Pan-sharpening via deep metric learning](https://www.sciencedirect.com/science/article/pii/S0924271618300212)
 **Yinghui Xing**, Min Wang, Shuyuan Yang, Licheng Jiao, **ISPRS Journal of Photogrammetry and Remote Sensing**, 2018. 
 
 - [Dual modality prompt tuning for vision-language pre-trained model](https://ieeexplore.ieee.org/abstract/document/10171397)
