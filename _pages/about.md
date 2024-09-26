@@ -30,7 +30,7 @@ My research interest includes pansharpening, multi-source image fusion and detec
 
 
 # 📝 Publications 
-##2024
+2024
 - [Visual Prompt Tuning in Null Space for Continual Learning](https://arxiv.org/abs/2406.05658).
 Yue Lu, Shizhou Zhang, De Cheng, **Yinghui Xing**, Nannan Wang, Peng Wang, Yanning Zhang, **NeuraIPS**, 2024.
 
@@ -63,7 +63,7 @@ Lingyan Ran, Lushuang Wang, Tao Zhuo, **Yinghui Xing**, Houjun He, Yanning Zhang
 **Yinghui Xing**, Qi Zhang, Lingyan Ran, Xiuwei Zhang, Hanlin Yin, Yanning Zhang, **IEEE Transactions on Geoscience and Remote Sensing**, 2024.
 [**Code**](https://github.com/zhangqiiii/SS-KT)
 
-##2023
+2023
 - [Text-based person search in full images via semantic-driven proposal generation](https://dl.acm.org/doi/abs/10.1145/3606041.3618058).
 Shizhou Zhang, De Cheng, Wenlong Luo, **Yinghui Xing**, Duo Long, Hao Li, Kai Niu, Guoqiang Liang, Yanning Zhang, **ACM MM Workshop Best Paper Award**, 2023.
 
@@ -97,7 +97,7 @@ Xiuwei Zhang, Wei Guo, **Yinghui Xing**, Wenna Wang, Hanlin Yin, Yanning Zhang, 
 Xiuwei Zhang, Mu Tian, **Yinghui Xing**, Yuanzeng Yue, Yanping Li, Hanlin Yin, Runliang Xia, Jin Jin, Yanning Zhang, **IEEE Transactions on Geoscience and Remote Sensing**, 2023.
 [**Code**](https://github.com/w-here/ASGO-113lab/tree/main/ADHR-CDNet)
 
-##2022
+2022
 - [Learning spectral cues for multispectral and panchromatic image fusion](https://ieeexplore.ieee.org/abstract/document/9935814).
 **Yinghui Xing**, Shuyuan Yang, Yan Zhang, Yanning Zhang, **IEEE Transactions on Image Processing**, 2022.
 
@@ -114,7 +114,7 @@ Wenxiu Diao, Feng Zhang, Jiande Sun, **Yinghui Xing**, Kai Zhang, Lorenzo Bruzzo
 - [Dual-collaborative fusion model for multispectral and panchromatic image fusion](https://ieeexplore.ieee.org/abstract/document/9310712).
 **Yinghui Xing**, Shuyuan Yang, Zhixi Feng, Licheng Jiao, **IEEE Transactions on Geoscience and Remote Sensing**, 2022.
 
-##2021 and before
+2021 and before
 - [SSA-Net: Spatial scale attention network for image-based geo-localization](https://ieeexplore.ieee.org/abstract/document/9576727).
 Xiuwei Zhang, Xiangchuang Meng, Hanlin Yin, Yixin Wang, Yuanzeng Yue, **Yinghui Xing**, Yanning Zhang, **IEEE Geoscience and Remote Sensing Letters**, 2021.
 
