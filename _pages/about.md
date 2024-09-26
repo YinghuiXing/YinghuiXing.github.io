@@ -140,5 +140,5 @@ Kai Zhang, Min Wang, Shuyuan Yang, **Yinghui Xing**, Rong Qu, **IEEE Journal of 
 
 # 📖 Educations
 - *2020.07 - now*, School of Computer Science, Northwestern Polytechnical University.
-- *2014.09 - 2020.06 (now)*, School of Artifical Intelligence, Xidian University.
+- *2014.09 - 2020.06*, School of Artifical Intelligence, Xidian University.
 - *2010.09 - 2014.06*, School of Electronic Engineering, Xidian University. 
