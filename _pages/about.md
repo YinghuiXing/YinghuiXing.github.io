@@ -22,6 +22,7 @@ I am currently an associate professor of School of Computer Science, NWPU.
 My research interest includes pansharpening, multi-source image fusion and detection, image enhancement and infrared target detection. I have published more than 30 papers at the top international journal and conference.
 
 # 🔥 News
+- *2024.09.26*: &nbsp;🎉🎉 One paper is accepted by NeuraIPS.
 - *2024.09.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP.
 - *2024.07.22*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. 
 - *2024.07.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TITS.
