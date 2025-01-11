@@ -22,7 +22,10 @@ I am currently an associate professor of School of Computer Science, NWPU.
 My research interest includes pansharpening, multi-source image fusion and detection, image enhancement and infrared target detection. I have published more than 30 papers at the top international journal and conference.
 
 # 🔥 News
-- *2024.09.26*: &nbsp;🎉🎉 One paper is accepted by NeuraIPS.
+- *2024.12.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
+- *2024.11.18*: &nbsp;🎉🎉 Our paper DPT (Dual modality prompt tuning for vision-language pre-trained model) has been selected to ESI highly cited paper!
+- *2024.11.02*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS.
+- *2024.09.26*: &nbsp;🎉🎉 One paper is accepted by NeuraIPS 2024.
 - *2024.09.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP.
 - *2024.07.22*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. 
 - *2024.07.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TITS.
@@ -32,6 +35,12 @@ My research interest includes pansharpening, multi-source image fusion and detec
 
 # 📝 Publications 
 2024
+- [Dual-Branch Task Residual Enhancement with Parameter-Free Attention for Zero-Shot Multi-label Image Recognition](https://link.springer.com/chapter/10.1007/978-3-031-78312-8_11)
+Shizhou Zhang, Kairui Dang, De Cheng, Yinghui Xing, Qirui Wu, Dexuan Kong, Yanning Zhang, **International Conference on Pattern Recognition**, 2024
+
+- [SCAFNet: Semantic-Guided Cascade Adaptive Fusion Network for Infrared Small Targets Detection](https://ieeexplore.ieee.org/abstract/document/10745528).
+Shizhou Zhang, Zhang Wang, Yinghui Xing, Liangkui Lin, Xiaoting Su, Yanning Zhang, **IEEE Transactions on Geoscience and Remote Sensing**, 2024.
+
 - [Visual Prompt Tuning in Null Space for Continual Learning](https://arxiv.org/abs/2406.05658).
 Yue Lu, Shizhou Zhang, De Cheng, **Yinghui Xing**, Nannan Wang, Peng Wang, Yanning Zhang, **NeuraIPS**, 2024.
 
