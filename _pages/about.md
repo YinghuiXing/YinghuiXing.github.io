@@ -22,6 +22,9 @@ I am currently an associate professor of School of Computer Science, NWPU.
 My research interest includes pansharpening, multi-source image fusion and detection, image enhancement and infrared target detection. I have published more than 30 papers at the top international journal and conference.
 
 # 🔥 News
+- *2025.3.24*: &nbsp;🎉🎉 I enter the tenure track. Many thanks to my team leader, all my collaborators, and all of my students.
+- *2025.3.23*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP.
+- *2025.2.27*: &nbsp;🎉🎉 Two papers are accepted by CVPR 2025.
 - *2024.12.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
 - *2024.11.18*: &nbsp;🎉🎉 Our paper DPT (Dual modality prompt tuning for vision-language pre-trained model) has been selected to ESI highly cited paper!
 - *2024.11.02*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS.
@@ -34,12 +37,26 @@ My research interest includes pansharpening, multi-source image fusion and detec
 
 
 # 📝 Publications 
+2025
+- [Prompt-Based Modality Alignment for Effective Multi-Modal Object Re-Identification]()
+Shizhou Zhang, Wenlong Luo, De Cheng, **Yinghui Xing**, Guoqiang Liang, Peng Wang, Yanning Zhang,**IEEE Transactions on Image Processing**, 2025.
+
+- [Dual-Granularity Semantic Guided Sparse Routing Diffusion Model for General Pansharpening]()
+**Yinghui Xing**, Litao Qu, Shizhou Zhang, Di Xu, Yingkun Yang, Yanning Zhang, **CVPR**, 2025.
+[**Code**](https://github.com/codgodtao/SGDiff) 
+
+- [Revisting Generative Replay for Class Incremental Object Detection]()
+Shizhou Zhang, Xueqiang Lv, **Yinghui Xing<sup>*</sup>**, Qirui Wu, Di Xu, Yanning Zhang, **CVPR**, 2025.
+
+- [Training Consistent Mixture-of-Experts-Based Prompt Generator for Continual Learning](https://ojs.aaai.org/index.php/AAAI/article/view/34108)
+Yue Lu, Shizhou Zhang, De Cheng, Guoqiang Liang, **Yinghui Xing**, Nannan Wang, Yanning Zhang, **Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)**, 2025.
+
 2024
 - [Dual-Branch Task Residual Enhancement with Parameter-Free Attention for Zero-Shot Multi-label Image Recognition](https://link.springer.com/chapter/10.1007/978-3-031-78312-8_11)
-Shizhou Zhang, Kairui Dang, De Cheng, Yinghui Xing, Qirui Wu, Dexuan Kong, Yanning Zhang, **International Conference on Pattern Recognition**, 2024
+Shizhou Zhang, Kairui Dang, De Cheng, **Yinghui Xing<sup>*</sup>**, Qirui Wu, Dexuan Kong, Yanning Zhang, **International Conference on Pattern Recognition (ICPR)**, 2024
 
 - [SCAFNet: Semantic-Guided Cascade Adaptive Fusion Network for Infrared Small Targets Detection](https://ieeexplore.ieee.org/abstract/document/10745528).
-Shizhou Zhang, Zhang Wang, Yinghui Xing, Liangkui Lin, Xiaoting Su, Yanning Zhang, **IEEE Transactions on Geoscience and Remote Sensing**, 2024.
+Shizhou Zhang, Zhang Wang, **Yinghui Xing<sup>*</sup>**, Liangkui Lin, Xiaoting Su, Yanning Zhang, **IEEE Transactions on Geoscience and Remote Sensing**, 2024.
 
 - [Visual Prompt Tuning in Null Space for Continual Learning](https://arxiv.org/abs/2406.05658).
 Yue Lu, Shizhou Zhang, De Cheng, **Yinghui Xing**, Nannan Wang, Peng Wang, Yanning Zhang, **NeuraIPS**, 2024.
@@ -49,7 +66,7 @@ Yue Lu, Shizhou Zhang, De Cheng, **Yinghui Xing**, Nannan Wang, Peng Wang, Yanni
 [**Code**](https://github.com/codgodtao/CrossDiff) 
 
 - [Frequency-Guided Spatial Adaptation for Camouflaged Object Detection](https://arxiv.org/abs/2409.12421).
-Shizhou Zhang, Dexuan Kong, **Yinghui Xing**, Yue Lu, Lingyan Ran, Guoqiang Liang, Hexu Wang, Yanning Zhang, **IEEE Transactions on Multimedia**, 2024.
+Shizhou Zhang, Dexuan Kong, **Yinghui Xing<sup>*</sup>**, Yue Lu, Lingyan Ran, Guoqiang Liang, Hexu Wang, Yanning Zhang, **IEEE Transactions on Multimedia**, 2024.
 
 - [MS-DETR: Multispectral Pedestrian Detection Transformer with Loosely Coupled Fusion and Modality-Balanced Optimization](https://ieeexplore.ieee.org/abstract/document/10669167).
 **Yinghui Xing**, Shuo Yang, Song Wang, Shizhou Zhang, Guoqiang Liang, Xiuwei Zhang, Yanning Zhang, **IEEE Transactions on Intelligent Transportation Systems**, 2024.
