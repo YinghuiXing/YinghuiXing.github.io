@@ -22,6 +22,7 @@ I am currently a tenured associate professor of School of Computer Science, NWPU
 My research interest includes pansharpening, multi-source image fusion and detection, image enhancement and infrared target detection. I have published more than 30 papers at the top international journal and conference.
 
 # 🔥 News
+- *2025.5.1*: &nbsp;🎉🎉 One paper is accepted by ICML 2025. Congrats to Qirui!
 - *2025.3.24*: &nbsp;🎉🎉 I enter the tenure track. Many thanks to my team leader, all my collaborators, and all of my students.
 - *2025.3.23*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP.
 - *2025.2.27*: &nbsp;🎉🎉 Two papers are accepted by CVPR 2025.
@@ -38,8 +39,11 @@ My research interest includes pansharpening, multi-source image fusion and detec
 
 # 📝 Publications 
 2025
+- [Demystifying Catastrophic Forgetting in Two-Stage Incremental Object Detector](https://arxiv.org/abs/2502.05540)
+Qirui Wu, Shizhou Zhang, De Cheng, **Yinghui Xing**, Di Xu, Peng Wang, Yanning Zhang, **ICML, 2025.
+
 - [Prompt-Based Modality Alignment for Effective Multi-Modal Object Re-Identification]()
-Shizhou Zhang, Wenlong Luo, De Cheng, **Yinghui Xing**, Guoqiang Liang, Peng Wang, Yanning Zhang,**IEEE Transactions on Image Processing**, 2025.
+Shizhou Zhang, Wenlong Luo, De Cheng, **Yinghui Xing**, Guoqiang Liang, Peng Wang, Yanning Zhang, **IEEE Transactions on Image Processing**, 2025.
 
 - [Dual-Granularity Semantic Guided Sparse Routing Diffusion Model for General Pansharpening]()
 **Yinghui Xing**, Litao Qu, Shizhou Zhang, Di Xu, Yingkun Yang, Yanning Zhang, **CVPR**, 2025.
