@@ -54,7 +54,7 @@ Shizhou Zhang, Yue Lu, De Cheng, **Yinghui Xing**, Nannan Wang, Peng Wang, Yanni
 **Yinghui Xing**, Xiaoting Su, Shizhou Zhang*, Donghao Chu, Di Xu, **AAAI (oral)**, 2026. [**Code**](https://github.com/Xtingsu/DuGI-MAE)
 
 - [On Modality Incomplete Infrared-Visible Object Detection: An Architecture Compatibility Perspective](https://arxiv.org/abs/2511.06406).
-Shuo Yang, **Yinghui Xing<sup>*</sup>**, Shizhou Zhang*, Zhilong Niu, **AAAI ABISD**, 2026. [**Code**](https://github.com/YinghuiXing/Scarf-DETR)
+Shuo Yang, **Yinghui Xing<sup>*</sup>**, Shizhou Zhang, Zhilong Niu, **AAAI ABISD**, 2026. [**Code**](https://github.com/YinghuiXing/Scarf-DETR)
 
 - [Better Matching, Less Forgetting: A Quality-Guided Matcher for Transformer-based Incremental Object Detection]().
 Qirui Wu, Shizhou Zhang, De Cheng, **Yinghui Xing**, Lingyan Ran, Dahu Shi, Peng Wang, **AAAI**, 2026.[**Code**](https://github.com/fanrena/Q-MCMF)
