@@ -22,6 +22,11 @@ I am currently a tenured associate professor of School of Computer Science, NWPU
 My research interest includes pansharpening, multi-source image fusion and detection, image enhancement and infrared target detection. I have published more than 30 papers at the top international journal and conference.
 
 # 🔥 News
+- *2025.12.18*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS.
+- *2025.12.7*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI.
+- *2025.11.8*: &nbsp;🎉🎉 Four papers are accepted by AAAI 2026.
+- *2025.7.5*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025.
+- *2025.6.26*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
 - *2025.5.1*: &nbsp;🎉🎉 One paper is accepted by ICML 2025. Congrats to Qirui!
 - *2025.3.24*: &nbsp;🎉🎉 I enter the tenure track. Many thanks to my team leader, all my collaborators, and all of my students.
 - *2025.3.23*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP.
@@ -29,7 +34,7 @@ My research interest includes pansharpening, multi-source image fusion and detec
 - *2024.12.10*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
 - *2024.11.18*: &nbsp;🎉🎉 Our paper DPT (Dual modality prompt tuning for vision-language pre-trained model) has been selected to ESI highly cited paper!
 - *2024.11.02*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS.
-- *2024.09.26*: &nbsp;🎉🎉 One paper is accepted by NeuraIPS 2024.
+- *2024.09.26*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024.
 - *2024.09.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP.
 - *2024.07.22*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS. 
 - *2024.07.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TITS.
@@ -38,22 +43,56 @@ My research interest includes pansharpening, multi-source image fusion and detec
 
 
 # 📝 Publications 
+2026
+- [CLIP2RS: Leveraging Pretrained Vision-Language Model for Semantic Segmentation of Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/11310789).
+**Yinghui Xing**, Dexuan Kong, Shizhou Zhang, Ziyi Li, Qingyi Li, Yanning Zhang, **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**, 2026.
+
+- [VPT-NSP2++: Importance-Aware Visual Prompt Tuning in Null Space for Continual Learning](https://ieeexplore.ieee.org/abstract/document/11296947).
+Shizhou Zhang, Yue Lu, De Cheng, **Yinghui Xing**, Nannan Wang, Peng Wang, Yanning Zhang, **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2026. [**Code**](https://github.com/zugexiaodui/VPT-NSP2pp)
+
+- [DuGI-MAE: Improving Infrared Mask Autoencoders via Dual-Domain Guidance](https://arxiv.org/abs/2512.04511).
+**Yinghui Xing**, Xiaoting Su, Shizhou Zhang*, Donghao Chu, Di Xu, **AAAI (oral)**, 2026. [**Code**](https://github.com/Xtingsu/DuGI-MAE)
+
+- [On Modality Incomplete Infrared-Visible Object Detection: An Architecture Compatibility Perspective](https://arxiv.org/abs/2511.06406).
+Shuo Yang, **Yinghui Xing<sup>*</sup>**, Shizhou Zhang*, Zhilong Niu, **AAAI ABISD**, 2026. [**Code**](https://github.com/YinghuiXing/Scarf-DETR)
+
+- [Better Matching, Less Forgetting: A Quality-Guided Matcher for Transformer-based Incremental Object Detection]().
+Qirui Wu, Shizhou Zhang, De Cheng, **Yinghui Xing**, Lingyan Ran, Dahu Shi, Peng Wang, **AAAI**, 2026.[**Code**](https://github.com/fanrena/Q-MCMF)
+
+- [YOLO-IOD: Towards Real Time Incremental Object Detection](https://arxiv.org/abs/2512.22973).
+Shizhou Zhang, Xueqiang Lv, **Yinghui Xing<sup>*</sup>**, Qirui Wu, Di Xu, Chen Zhao, Yanning Zhang, **AAAI**, 2026. [**Code**](https://github.com/qiangzai-lv/YOLO-IOD)
+
+- [Attention Retention for Continual Learning with Vision Transformers]().
+Yue Lu, Xiangyu Zhou, Shizhou Zhang, **Yinghui Xing**, Guoqiang Liang, Wencong Zhang, **AAAI**, 2026. [**Code**](https://github.com/zugexiaodui/AttentionRetentionCL)
+
+- [Nearest Neighbor Class Prototype Prompt and Simulated Logits for Continual Learning](https://www.sciencedirect.com/science/article/abs/pii/S003132032500593X).
+Yue Lu, Jie Tan, Shizhou Zhang, **Yinghui Xing**, Guoqiang Liang, Yanning Zhang, **Pattern Recognition (PR)**, 2026.
+
 2025
+- [Amplitude-aware Domain Style Replay for Lifelong Person Re-identification](https://dl.acm.org/doi/epdf/10.1145/3746027.3755616).
+Long Chen, De Cheng, Shizhou Zhang, **Yinghui Xing**, Di Xu, Yanning Zhang, **ACM MM**, 2025. [**Code**](https://github.com/cclong8/MM2025-ADSR)
+
+- [Gradient Decomposition and Alignment for Incremental Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Luo_Gradient_Decomposition_and_Alignment_for_Incremental_Object_Detection_ICCV_2025_paper.pdf).
+Wenlong Luo, Shizhou Zhang, De Cheng, **Yinghui Xing**, Guoqiang Liang, Peng Wang, Yanning Zhang, **ICCV**, 2025.[**Code**](https://github.com/FHR-L/GDA-IOD)
+
 - [Demystifying Catastrophic Forgetting in Two-Stage Incremental Object Detector](https://arxiv.org/abs/2502.05540).
-Qirui Wu, Shizhou Zhang, De Cheng, **Yinghui Xing**, Di Xu, Peng Wang, Yanning Zhang, **ICML**, 2025.
+Qirui Wu, Shizhou Zhang, De Cheng, **Yinghui Xing**, Di Xu, Peng Wang, Yanning Zhang, **ICML**, 2025.[**Code**](https://github.com/fanrena/NSGP-RePRE)
 
-- [Prompt-Based Modality Alignment for Effective Multi-Modal Object Re-Identification]().
-Shizhou Zhang, Wenlong Luo, De Cheng, **Yinghui Xing**, Guoqiang Liang, Peng Wang, Yanning Zhang, **IEEE Transactions on Image Processing**, 2025.
+- [Prompt-Based Modality Alignment for Effective Multi-Modal Object Re-Identification](https://ieeexplore.ieee.org/abstract/document/10955143).
+Shizhou Zhang, Wenlong Luo, De Cheng, **Yinghui Xing**, Guoqiang Liang, Peng Wang, Yanning Zhang, **IEEE Transactions on Image Processing**, 2025. [**Code**](https://github.com/FHR-L/PromptMA) 
 
-- [Dual-Granularity Semantic Guided Sparse Routing Diffusion Model for General Pansharpening]().
+- [Dual-Granularity Semantic Guided Sparse Routing Diffusion Model for General Pansharpening](https://openaccess.thecvf.com/content/CVPR2025/papers/Xing_Dual-Granularity_Semantic_Guided_Sparse_Routing_Diffusion_Model_for_General_Pansharpening_CVPR_2025_paper.pdf).
 **Yinghui Xing**, Litao Qu, Shizhou Zhang, Di Xu, Yingkun Yang, Yanning Zhang, **CVPR**, 2025.
 [**Code**](https://github.com/codgodtao/SGDiff) 
 
-- [Revisting Generative Replay for Class Incremental Object Detection]().
-Shizhou Zhang, Xueqiang Lv, **Yinghui Xing<sup>*</sup>**, Qirui Wu, Di Xu, Yanning Zhang, **CVPR**, 2025.
+- [Revisting Generative Replay for Class Incremental Object Detection](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Revisiting_Generative_Replay_for_Class_Incremental_Object_Detection_CVPR_2025_paper.pdf).
+Shizhou Zhang, Xueqiang Lv, **Yinghui Xing<sup>*</sup>**, Qirui Wu, Di Xu, Yanning Zhang, **CVPR**, 2025. [**Code**](https://github.com/qiangzai-lv/RGR-IOD)
 
 - [Training Consistent Mixture-of-Experts-Based Prompt Generator for Continual Learning](https://ojs.aaai.org/index.php/AAAI/article/view/34108).
-Yue Lu, Shizhou Zhang, De Cheng, Guoqiang Liang, **Yinghui Xing**, Nannan Wang, Yanning Zhang, **Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)**, 2025.
+Yue Lu, Shizhou Zhang, De Cheng, Guoqiang Liang, **Yinghui Xing**, Nannan Wang, Yanning Zhang, **Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)**, 2025.[**Code**](https://github.com/zugexiaodui/ConsistentMoEPromptGenerator)
+
+- [Frequency-Guided Spatial Adaptation for Camouflaged Object Detection](https://ieeexplore.ieee.org/abstract/document/10844993).
+Shizhou Zhang, Dexuan Kong, **Yinghui Xing<sup>*</sup>**, Yue Lu, Lingyan Ran, Guoqiang Liang, Hexu Wang, Yanning Zhang, **IEEE Transactions on Multimedia**, 2025.[**Code**](https://github.com/zugexiaodui/FGSA-Net)
 
 2024
 - [Dual-Branch Task Residual Enhancement with Parameter-Free Attention for Zero-Shot Multi-label Image Recognition](https://link.springer.com/chapter/10.1007/978-3-031-78312-8_11).
@@ -63,14 +102,11 @@ Shizhou Zhang, Kairui Dang, De Cheng, **Yinghui Xing<sup>*</sup>**, Qirui Wu, De
 Shizhou Zhang, Zhang Wang, **Yinghui Xing<sup>*</sup>**, Liangkui Lin, Xiaoting Su, Yanning Zhang, **IEEE Transactions on Geoscience and Remote Sensing**, 2024.
 
 - [Visual Prompt Tuning in Null Space for Continual Learning](https://arxiv.org/abs/2406.05658).
-Yue Lu, Shizhou Zhang, De Cheng, **Yinghui Xing**, Nannan Wang, Peng Wang, Yanning Zhang, **NeuraIPS**, 2024.
+Yue Lu, Shizhou Zhang, De Cheng, **Yinghui Xing**, Nannan Wang, Peng Wang, Yanning Zhang, **NeuraIPS**, 2024. [**Code**](https://github.com/zugexiaodui/VPTinNSforCL)
 
 - [CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10685062).
 **Yinghui Xing**, Litao Qu, Shizhou Zhang, Kai Zhang, Yanning Zhang, Lorenzo Bruzzone, **IEEE Transactions on Image Processing**, 2024.
 [**Code**](https://github.com/codgodtao/CrossDiff) 
-
-- [Frequency-Guided Spatial Adaptation for Camouflaged Object Detection](https://arxiv.org/abs/2409.12421).
-Shizhou Zhang, Dexuan Kong, **Yinghui Xing<sup>*</sup>**, Yue Lu, Lingyan Ran, Guoqiang Liang, Hexu Wang, Yanning Zhang, **IEEE Transactions on Multimedia**, 2024.
 
 - [MS-DETR: Multispectral Pedestrian Detection Transformer with Loosely Coupled Fusion and Modality-Balanced Optimization](https://ieeexplore.ieee.org/abstract/document/10669167).
 **Yinghui Xing**, Shuo Yang, Song Wang, Shizhou Zhang, Guoqiang Liang, Xiuwei Zhang, Yanning Zhang, **IEEE Transactions on Intelligent Transportation Systems**, 2024.
@@ -166,8 +202,11 @@ Kai Zhang, Min Wang, Shuyuan Yang, **Yinghui Xing**, Rong Qu, **IEEE Journal of 
 
 
 # 🎖 Honors and Awards
+- *2025.12* I was selected for the Young Talent Support Program of the Chinese Institute of Electronics.
+- *2025.11* I was selected for the Soaring New Star of NWPU.
+- *2024.11* One paper was selected as the ESI highly cited paper.
 - *2023.05* I was selected for the Youth Talent Support Program of the Xi'an Association for Science and Technology.
-- *2022.07* One paper was selected as a ESI highly cited paper.
+- *2022.07* One paper was selected as the ESI highly cited paper.
 
 # 📖 Educations
 - *2020.07 - now*, School of Computer Science, Northwestern Polytechnical University.
