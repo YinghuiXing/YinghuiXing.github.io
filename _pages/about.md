@@ -17,11 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a tenured associate professor of School of Computer Science, NWPU.
+I am a tenure-track associate professor, specially appointed researcher, and Ph.D. supervisor at the School of Computer Science, Northwestern Polytechnical University. My research interests include multi-source and multimodal data alignment, fusion, and collaborative interpretation.
 
-My research interest includes pansharpening, multi-source image fusion and detection, image enhancement and infrared target detection. I have published more than 30 papers at the top international journal and conference.
+In recent years, I have published more than 40 papers in leading journals and conferences, including IEEE TIP, ISPRS Journal of Photogrammetry and Remote Sensing, IEEE TGRS, IEEE TMM, Pattern Recognition, CVPR, NeurIPS, ICML, ICCV, ECCV, AAAI, ACM Multimedia, and IJCAI. Three of my papers have been recognized as ESI Highly Cited Papers. My work has also received the Best Paper Award at the ACM Multimedia HCMA Workshop and the JCRAI Best Paper Award. I have led and participated in more than ten national and provincial-level research projects, including grants from the National Natural Science Foundation of China and the National Key R&D Program of China. I have also mentored students to achieve top awards in major academic competitions. 
+
+In 2023, I was selected for the Xi’an Association for Science and Technology Young Talent Support Program. In 2025, I was selected for the Northwestern Polytechnical University Aoxiang Rising Star Talent Program and the Chinese Institute of Electronics Young Talent Support Program.
 
 # 🔥 News
+- *2026.03.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP. Congrats to Zhilong!.
+- *2026.02.02*: &nbsp;🎉🎉 One paper is accepted by IEEE TMM.
 - *2025.12.18*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS.
 - *2025.12.7*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI.
 - *2025.11.8*: &nbsp;🎉🎉 Four papers are accepted by AAAI 2026.
@@ -44,6 +48,9 @@ My research interest includes pansharpening, multi-source image fusion and detec
 
 # 📝 Publications 
 2026
+- [Less is More: Infrared and Visible Images Fusion via Semantic-Guided Mixture of Multi-Feature Experts](https://ieeexplore.ieee.org/document/11456845).
+**Yinghui Xing**, Zhilong Niu, Shuo Yang, Shizhou Zhang, Yanning Zhang, **IEEE Transactions on Image Processing (TIP)**, 2026. [**Code**]([https://github.com/zugexiaodui/VPT-NSP2pp](https://github.com/ZhilongNiu/SD-MoMFE))
+  
 - [CLIP2RS: Leveraging Pretrained Vision-Language Model for Semantic Segmentation of Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/11310789).
 **Yinghui Xing**, Dexuan Kong, Shizhou Zhang, Ziyi Li, Qingyi Li, Yanning Zhang, **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**, 2026.
 
@@ -202,6 +209,7 @@ Kai Zhang, Min Wang, Shuyuan Yang, **Yinghui Xing**, Rong Qu, **IEEE Journal of 
 
 
 # 🎖 Honors and Awards
+- *2026.03* One paper was selected as the ESI highly cited paper.
 - *2025.12* I was selected for the Young Talent Support Program of the Chinese Institute of Electronics.
 - *2025.11* I was selected for the Soaring New Star of NWPU.
 - *2024.11* One paper was selected as the ESI highly cited paper.
