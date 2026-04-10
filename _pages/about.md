@@ -49,7 +49,7 @@ In 2023, I was selected for the Xi’an Association for Science and Technology Y
 # 📝 Publications 
 2026
 - [Less is More: Infrared and Visible Images Fusion via Semantic-Guided Mixture of Multi-Feature Experts](https://ieeexplore.ieee.org/document/11456845).
-**Yinghui Xing**, Zhilong Niu, Shuo Yang, Shizhou Zhang, Yanning Zhang, **IEEE Transactions on Image Processing (TIP)**, 2026. [**Code**]([https://github.com/zugexiaodui/VPT-NSP2pp](https://github.com/ZhilongNiu/SD-MoMFE))
+**Yinghui Xing**, Zhilong Niu, Shuo Yang, Shizhou Zhang, Yanning Zhang, **IEEE Transactions on Image Processing (TIP)**, 2026. [**Code**](https://github.com/ZhilongNiu/SD-MoMFE)
   
 - [CLIP2RS: Leveraging Pretrained Vision-Language Model for Semantic Segmentation of Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/11310789).
 **Yinghui Xing**, Dexuan Kong, Shizhou Zhang, Ziyi Li, Qingyi Li, Yanning Zhang, **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**, 2026.
