@@ -126,8 +126,9 @@ h1:before, .anchor:before {
 }
 
 .publication-card {
-    display: flex;
-    gap: 1.1rem;
+    display: grid;
+    grid-template-columns: 170px minmax(0, 1fr);
+    gap: 0.9rem;
     align-items: flex-start;
     margin: 1rem 0 1.25rem 0;
     padding: 0.65rem;
@@ -136,8 +137,7 @@ h1:before, .anchor:before {
     background: #ffffff;
 
     .publication-card__image {
-        flex: 0 0 34%;
-        max-width: 280px;
+        width: 170px;
         border: 1px solid #eef0f3;
         border-radius: 4px;
         overflow: hidden;
@@ -146,14 +146,13 @@ h1:before, .anchor:before {
         img {
             display: block;
             width: 100%;
-            aspect-ratio: 4 / 3;
+            height: 112px;
             object-fit: contain;
             margin: 0;
         }
     }
 
     .publication-card__content {
-        flex: 1 1 auto;
         min-width: 0;
 
         p {
@@ -173,12 +172,30 @@ h1:before, .anchor:before {
 
 @media screen and (max-width: 600px) {
     .publication-card {
-        flex-direction: column;
+        grid-template-columns: 120px minmax(0, 1fr);
+        gap: 0.65rem;
 
         .publication-card__image {
-            flex: none;
-            max-width: none;
-            width: 100%;
+            width: 120px;
+
+            img {
+                height: 82px;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .publication-card {
+        grid-template-columns: 96px minmax(0, 1fr);
+        gap: 0.55rem;
+
+        .publication-card__image {
+            width: 96px;
+
+            img {
+                height: 66px;
+            }
         }
     }
 }
