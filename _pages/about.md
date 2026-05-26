@@ -186,50 +186,87 @@ In 2023, I was selected for the Xi’an Association for Science and Technology Y
 </div>
 
 2024
-- [Dual-Branch Task Residual Enhancement with Parameter-Free Attention for Zero-Shot Multi-label Image Recognition](https://link.springer.com/chapter/10.1007/978-3-031-78312-8_11).
-Shizhou Zhang, Kairui Dang, De Cheng, **Yinghui Xing<sup>*</sup>**, Qirui Wu, Dexuan Kong, Yanning Zhang, **International Conference on Pattern Recognition (ICPR)**, 2024
+<div class="publication-card">
+  <a class="publication-card__image" href="https://link.springer.com/chapter/10.1007/978-3-031-78312-8_11"><img src="/images/publications/dual-branch-task-residual.png" alt="Dual-Branch Task Residual Enhancement method figure"></a>
+  <div class="publication-card__content">
+    <p class="publication-card__title"><a href="https://link.springer.com/chapter/10.1007/978-3-031-78312-8_11">Dual-Branch Task Residual Enhancement with Parameter-Free Attention for Zero-Shot Multi-label Image Recognition</a></p>
+    <p>Shizhou Zhang, Kairui Dang, De Cheng, <strong>Yinghui Xing<sup>*</sup></strong>, Qirui Wu, Dexuan Kong, Yanning Zhang, <strong>International Conference on Pattern Recognition (ICPR)</strong>, 2024.</p>
+  </div>
+</div>
 
-- [SCAFNet: Semantic-Guided Cascade Adaptive Fusion Network for Infrared Small Targets Detection](https://ieeexplore.ieee.org/abstract/document/10745528).
-Shizhou Zhang, Zhang Wang, **Yinghui Xing<sup>*</sup>**, Liangkui Lin, Xiaoting Su, Yanning Zhang, **IEEE Transactions on Geoscience and Remote Sensing**, 2024.
+<div class="publication-card">
+  <a class="publication-card__image" href="https://ieeexplore.ieee.org/abstract/document/10745528"><img src="/images/publications/scafnet.png" alt="SCAFNet method figure"></a>
+  <div class="publication-card__content">
+    <p class="publication-card__title"><a href="https://ieeexplore.ieee.org/abstract/document/10745528">SCAFNet: Semantic-Guided Cascade Adaptive Fusion Network for Infrared Small Targets Detection</a></p>
+    <p>Shizhou Zhang, Zhang Wang, <strong>Yinghui Xing<sup>*</sup></strong>, Liangkui Lin, Xiaoting Su, Yanning Zhang, <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>, 2024.</p>
+  </div>
+</div>
 
-- [Visual Prompt Tuning in Null Space for Continual Learning](https://arxiv.org/abs/2406.05658).
-Yue Lu, Shizhou Zhang, De Cheng, **Yinghui Xing**, Nannan Wang, Peng Wang, Yanning Zhang, **NeuraIPS**, 2024. [**Code**](https://github.com/zugexiaodui/VPTinNSforCL)
+<div class="publication-card">
+  <a class="publication-card__image" href="https://arxiv.org/abs/2406.05658"><img src="/images/publications/vpt-ns.png" alt="VPT-NS method figure"></a>
+  <div class="publication-card__content">
+    <p class="publication-card__title"><a href="https://arxiv.org/abs/2406.05658">Visual Prompt Tuning in Null Space for Continual Learning</a></p>
+    <p>Yue Lu, Shizhou Zhang, De Cheng, <strong>Yinghui Xing</strong>, Nannan Wang, Peng Wang, Yanning Zhang, <strong>NeuraIPS</strong>, 2024. <a href="https://github.com/zugexiaodui/VPTinNSforCL"><strong>Code</strong></a></p>
+  </div>
+</div>
 
-<figure class="pub-figure">
-  <img src="/images/publications/vpt-ns.png" alt="VPT-NS method figure">
-</figure>
+<div class="publication-card">
+  <a class="publication-card__image" href="https://ieeexplore.ieee.org/abstract/document/10685062"><img src="/images/publications/crossdiff.png" alt="CrossDiff method figure"></a>
+  <div class="publication-card__content">
+    <p class="publication-card__title"><a href="https://ieeexplore.ieee.org/abstract/document/10685062">CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model</a></p>
+    <p><strong>Yinghui Xing</strong>, Litao Qu, Shizhou Zhang, Kai Zhang, Yanning Zhang, Lorenzo Bruzzone, <strong>IEEE Transactions on Image Processing</strong>, 2024. <a href="https://github.com/codgodtao/CrossDiff"><strong>Code</strong></a></p>
+  </div>
+</div>
 
-- [CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10685062).
-**Yinghui Xing**, Litao Qu, Shizhou Zhang, Kai Zhang, Yanning Zhang, Lorenzo Bruzzone, **IEEE Transactions on Image Processing**, 2024.
-[**Code**](https://github.com/codgodtao/CrossDiff) 
+<div class="publication-card">
+  <a class="publication-card__image" href="https://ieeexplore.ieee.org/abstract/document/10669167"><img src="/images/publications/ms-detr.png" alt="MS-DETR method figure"></a>
+  <div class="publication-card__content">
+    <p class="publication-card__title"><a href="https://ieeexplore.ieee.org/abstract/document/10669167">MS-DETR: Multispectral Pedestrian Detection Transformer with Loosely Coupled Fusion and Modality-Balanced Optimization</a></p>
+    <p><strong>Yinghui Xing</strong>, Shuo Yang, Song Wang, Shizhou Zhang, Guoqiang Liang, Xiuwei Zhang, Yanning Zhang, <strong>IEEE Transactions on Intelligent Transportation Systems</strong>, 2024. <a href="https://github.com/YinghuiXing/MS-DETR"><strong>Code</strong></a></p>
+  </div>
+</div>
 
-- [MS-DETR: Multispectral Pedestrian Detection Transformer with Loosely Coupled Fusion and Modality-Balanced Optimization](https://ieeexplore.ieee.org/abstract/document/10669167).
-**Yinghui Xing**, Shuo Yang, Song Wang, Shizhou Zhang, Guoqiang Liang, Xiuwei Zhang, Yanning Zhang, **IEEE Transactions on Intelligent Transportation Systems**, 2024.
-[**Code**](https://github.com/YinghuiXing/MS-DETR)
+<div class="publication-card">
+  <a class="publication-card__image" href="https://arxiv.org/abs/2408.07500"><img src="/images/publications/cross-video-reid.png" alt="Cross-platform video person ReID method figure"></a>
+  <div class="publication-card__content">
+    <p class="publication-card__title"><a href="https://arxiv.org/abs/2408.07500">Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach</a></p>
+    <p>Shizhou Zhang, Wenlong Luo, De Cheng, Qingchun Yang, Lingyan Ran, <strong>Yinghui Xing</strong>, Yanning Zhang, <strong>ECCV</strong>, 2024. <a href="https://github.com/FHR-L/VSLA-CLIP"><strong>Code</strong></a></p>
+  </div>
+</div>
 
-- [Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach](https://arxiv.org/abs/2408.07500).
-Shizhou Zhang, Wenlong Luo, De Cheng, Qingchun Yang, Lingyan Ran, **Yinghui Xing**, Yanning Zhang, **ECCV**, 2024.
-[**Code**](https://github.com/FHR-L/VSLA-CLIP)
+<div class="publication-card">
+  <a class="publication-card__image" href="https://ieeexplore.ieee.org/abstract/document/10620432"><img src="/images/publications/ddf.png" alt="DDF method figure"></a>
+  <div class="publication-card__content">
+    <p class="publication-card__title"><a href="https://ieeexplore.ieee.org/abstract/document/10620432">DDF: A Novel Dual-Domain Image Fusion Strategy for Remote Sensing Image Semantic Segmentation with Unsupervised Domain Adaptation</a></p>
+    <p>Lingyan Ran, Lushuang Wang, Tao Zhuo, <strong>Yinghui Xing</strong>, Houjun He, Yanning Zhang, <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>, 2024.</p>
+  </div>
+</div>
 
-<figure class="pub-figure">
-  <img src="/images/publications/cross-video-reid.png" alt="Cross-platform video person ReID method figure">
-</figure>
+<div class="publication-card">
+  <a class="publication-card__image" href="https://ieeexplore.ieee.org/abstract/document/10613790"><img src="/images/publications/empower-generalizability.png" alt="TMDiff method figure"></a>
+  <div class="publication-card__content">
+    <p class="publication-card__title"><a href="https://ieeexplore.ieee.org/abstract/document/10613790">Empower Generalizability for Pansharpening Through Text-Modulated Diffusion Model</a></p>
+    <p><strong>Yinghui Xing</strong>, Litao Qu, Shizhou Zhang, Jiapeng Feng, Xiuwei Zhang, Yanning Zhang, <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>, 2024. <a href="https://github.com/codgodtao/TMDiff"><strong>Code</strong></a></p>
+  </div>
+</div>
 
-- [DDF: A Novel Dual-Domain Image Fusion Strategy for Remote Sensing Image Semantic Segmentation with Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/abstract/document/10620432).
-Lingyan Ran, Lushuang Wang, Tao Zhuo, **Yinghui Xing**, Houjun He, Yanning Zhang, **IEEE Transactions on Geoscience and Remote Sensing**, 2024.
+<div class="publication-card">
+  <a class="publication-card__image" href="https://ieeexplore.ieee.org/abstract/document/10446416"><img src="/images/publications/complementary-fusion-network.png" alt="Complementary Fusion Network method figure"></a>
+  <div class="publication-card__content">
+    <p class="publication-card__title"><a href="https://ieeexplore.ieee.org/abstract/document/10446416">Complementary Fusion Network Based on Frequency Hybrid Attention for Pansharpening</a></p>
+    <p><strong>Yinghui Xing</strong>, Litao Qu, Kai Zhang, Yan Zhang, Xiuwei Zhang, Yanning Zhang, <strong>ICASSP</strong>, 2024.</p>
+  </div>
+</div>
 
-- [Empower Generalizability for Pansharpening Through Text-Modulated Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10613790).
-**Yinghui Xing**, Litao Qu, Shizhou Zhang, Jiapeng Feng, Xiuwei Zhang, Yanning Zhang, **IEEE Transactions on Geoscience and Remote Sensing**, 2024.
-[**Code**](https://github.com/codgodtao/TMDiff)
+<div class="publication-card">
+  <a class="publication-card__image" href="https://ieeexplore.ieee.org/abstract/document/10480439"><img src="/images/publications/improving-reliability.png" alt="Improving Reliability of Heterogeneous Change Detection method figure"></a>
+  <div class="publication-card__content">
+    <p class="publication-card__title"><a href="https://ieeexplore.ieee.org/abstract/document/10480439">Improving Reliability of Heterogeneous Change Detection by Sample Synthesis and Knowledge Transfer</a></p>
+    <p><strong>Yinghui Xing</strong>, Qi Zhang, Lingyan Ran, Xiuwei Zhang, Hanlin Yin, Yanning Zhang, <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>, 2024. <a href="https://github.com/zhangqiiii/SS-KT"><strong>Code</strong></a></p>
+  </div>
+</div>
 
-- [Complementary Fusion Network Based on Frequency Hybrid Attention for Pansharpening](https://ieeexplore.ieee.org/abstract/document/10446416).
-**Yinghui Xing**, Litao Qu, Kai Zhang, Yan Zhang, Xiuwei Zhang, Yanning Zhang, **ICASSP**, 2024.
-
-- [Improving Reliability of Heterogeneous Change Detection by Sample Synthesis and Knowledge Transfer](https://ieeexplore.ieee.org/abstract/document/10480439).
-**Yinghui Xing**, Qi Zhang, Lingyan Ran, Xiuwei Zhang, Hanlin Yin, Yanning Zhang, **IEEE Transactions on Geoscience and Remote Sensing**, 2024.
-[**Code**](https://github.com/zhangqiiii/SS-KT)
-
-2023
+2023 and before
 - [Text-based person search in full images via semantic-driven proposal generation](https://dl.acm.org/doi/abs/10.1145/3606041.3618058).
 Shizhou Zhang, De Cheng, Wenlong Luo, **Yinghui Xing**, Duo Long, Hao Li, Kai Niu, Guoqiang Liang, Yanning Zhang, **ACM MM Workshop Best Paper Award**, 2023.
 
@@ -263,7 +300,6 @@ Xiuwei Zhang, Wei Guo, **Yinghui Xing**, Wenna Wang, Hanlin Yin, Yanning Zhang, 
 Xiuwei Zhang, Mu Tian, **Yinghui Xing**, Yuanzeng Yue, Yanping Li, Hanlin Yin, Runliang Xia, Jin Jin, Yanning Zhang, **IEEE Transactions on Geoscience and Remote Sensing**, 2023.
 [**Code**](https://github.com/w-here/ASGO-113lab/tree/main/ADHR-CDNet)
 
-2022
 - [Learning spectral cues for multispectral and panchromatic image fusion](https://ieeexplore.ieee.org/abstract/document/9935814).
 **Yinghui Xing**, Shuyuan Yang, Yan Zhang, Yanning Zhang, **IEEE Transactions on Image Processing**, 2022.
 
@@ -280,7 +316,6 @@ Wenxiu Diao, Feng Zhang, Jiande Sun, **Yinghui Xing**, Kai Zhang, Lorenzo Bruzzo
 - [Dual-collaborative fusion model for multispectral and panchromatic image fusion](https://ieeexplore.ieee.org/abstract/document/9310712).
 **Yinghui Xing**, Shuyuan Yang, Zhixi Feng, Licheng Jiao, **IEEE Transactions on Geoscience and Remote Sensing**, 2022.
 
-2021 and before
 - [SSA-Net: Spatial scale attention network for image-based geo-localization](https://ieeexplore.ieee.org/abstract/document/9576727).
 Xiuwei Zhang, Xiangchuang Meng, Hanlin Yin, Yixin Wang, Yuanzeng Yue, **Yinghui Xing**, Yanning Zhang, **IEEE Geoscience and Remote Sensing Letters**, 2021.
 
