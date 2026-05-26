@@ -124,3 +124,61 @@ h1:before, .anchor:before {
         border-radius: 4px;
     }
 }
+
+.publication-card {
+    display: flex;
+    gap: 1.1rem;
+    align-items: flex-start;
+    margin: 1rem 0 1.25rem 0;
+    padding: 0.65rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 6px;
+    background: #ffffff;
+
+    .publication-card__image {
+        flex: 0 0 34%;
+        max-width: 280px;
+        border: 1px solid #eef0f3;
+        border-radius: 4px;
+        overflow: hidden;
+        background: #f8fafc;
+
+        img {
+            display: block;
+            width: 100%;
+            aspect-ratio: 4 / 3;
+            object-fit: contain;
+            margin: 0;
+        }
+    }
+
+    .publication-card__content {
+        flex: 1 1 auto;
+        min-width: 0;
+
+        p {
+            margin: 0 0 0.45rem 0;
+        }
+
+        p:last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    .publication-card__title {
+        font-weight: 600;
+        line-height: 1.35;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .publication-card {
+        flex-direction: column;
+
+        .publication-card__image {
+            flex: none;
+            max-width: none;
+            width: 100%;
+        }
+    }
+}
