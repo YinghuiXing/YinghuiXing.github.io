@@ -50,56 +50,124 @@ In 2023, I was selected for the Xi’an Association for Science and Technology Y
 2026
 - [Less is More: Infrared and Visible Images Fusion via Semantic-Guided Mixture of Multi-Feature Experts](https://ieeexplore.ieee.org/document/11456845).
 **Yinghui Xing**, Zhilong Niu, Shuo Yang, Shizhou Zhang, Yanning Zhang, **IEEE Transactions on Image Processing (TIP)**, 2026. [**Code**](https://github.com/ZhilongNiu/SD-MoMFE)
+
+<figure class="pub-figure">
+  <img src="/images/publications/less-is-more.png" alt="Less is More method figure">
+</figure>
   
 - [CLIP2RS: Leveraging Pretrained Vision-Language Model for Semantic Segmentation of Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/11310789).
 **Yinghui Xing**, Dexuan Kong, Shizhou Zhang, Ziyi Li, Qingyi Li, Yanning Zhang, **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**, 2026.
 
+<figure class="pub-figure">
+  <img src="/images/publications/clip2rs.png" alt="CLIP2RS method figure">
+</figure>
+
 - [VPT-NSP2++: Importance-Aware Visual Prompt Tuning in Null Space for Continual Learning](https://ieeexplore.ieee.org/abstract/document/11296947).
 Shizhou Zhang, Yue Lu, De Cheng, **Yinghui Xing**, Nannan Wang, Peng Wang, Yanning Zhang, **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2026. [**Code**](https://github.com/zugexiaodui/VPT-NSP2pp)
+
+<figure class="pub-figure">
+  <img src="/images/publications/vpt-nsp2pp.png" alt="VPT-NSP2++ method figure">
+</figure>
 
 - [DuGI-MAE: Improving Infrared Mask Autoencoders via Dual-Domain Guidance](https://arxiv.org/abs/2512.04511).
 **Yinghui Xing**, Xiaoting Su, Shizhou Zhang*, Donghao Chu, Di Xu, **AAAI (oral)**, 2026. [**Code**](https://github.com/Xtingsu/DuGI-MAE)
 
+<figure class="pub-figure">
+  <img src="/images/publications/dugi-mae.png" alt="DuGI-MAE method figure">
+</figure>
+
 - [On Modality Incomplete Infrared-Visible Object Detection: An Architecture Compatibility Perspective](https://arxiv.org/abs/2511.06406).
 Shuo Yang, **Yinghui Xing<sup>*</sup>**, Shizhou Zhang, Zhilong Niu, **AAAI ABISD**, 2026. [**Code**](https://github.com/YinghuiXing/Scarf-DETR)
 
-- [Better Matching, Less Forgetting: A Quality-Guided Matcher for Transformer-based Incremental Object Detection]().
+<figure class="pub-figure">
+  <img src="/images/publications/scarf-detr.png" alt="Scarf-DETR method figure">
+</figure>
+
+- [Better Matching, Less Forgetting: A Quality-Guided Matcher for Transformer-based Incremental Object Detection](https://ojs.aaai.org/index.php/AAAI/article/view/38046).
 Qirui Wu, Shizhou Zhang, De Cheng, **Yinghui Xing**, Lingyan Ran, Dahu Shi, Peng Wang, **AAAI**, 2026.[**Code**](https://github.com/fanrena/Q-MCMF)
+
+<figure class="pub-figure">
+  <img src="/images/publications/better-matching.png" alt="Better Matching, Less Forgetting method figure">
+</figure>
 
 - [YOLO-IOD: Towards Real Time Incremental Object Detection](https://arxiv.org/abs/2512.22973).
 Shizhou Zhang, Xueqiang Lv, **Yinghui Xing<sup>*</sup>**, Qirui Wu, Di Xu, Chen Zhao, Yanning Zhang, **AAAI**, 2026. [**Code**](https://github.com/qiangzai-lv/YOLO-IOD)
 
+<figure class="pub-figure">
+  <img src="/images/publications/yolo-iod.png" alt="YOLO-IOD method figure">
+</figure>
+
 - [Attention Retention for Continual Learning with Vision Transformers]().
 Yue Lu, Xiangyu Zhou, Shizhou Zhang, **Yinghui Xing**, Guoqiang Liang, Wencong Zhang, **AAAI**, 2026. [**Code**](https://github.com/zugexiaodui/AttentionRetentionCL)
 
+<figure class="pub-figure">
+  <img src="/images/publications/attention-retention.png" alt="Attention Retention method figure">
+</figure>
+
 - [Nearest Neighbor Class Prototype Prompt and Simulated Logits for Continual Learning](https://www.sciencedirect.com/science/article/abs/pii/S003132032500593X).
 Yue Lu, Jie Tan, Shizhou Zhang, **Yinghui Xing**, Guoqiang Liang, Yanning Zhang, **Pattern Recognition (PR)**, 2026.
+
+<figure class="pub-figure">
+  <img src="/images/publications/nearest-neighbor-class-prototype.png" alt="Nearest Neighbor Class Prototype Prompt method figure">
+</figure>
 
 2025
 - [Amplitude-aware Domain Style Replay for Lifelong Person Re-identification](https://dl.acm.org/doi/epdf/10.1145/3746027.3755616).
 Long Chen, De Cheng, Shizhou Zhang, **Yinghui Xing**, Di Xu, Yanning Zhang, **ACM MM**, 2025. [**Code**](https://github.com/cclong8/MM2025-ADSR)
 
+<figure class="pub-figure">
+  <img src="/images/publications/amplitude-aware.png" alt="Amplitude-aware Domain Style Replay method figure">
+</figure>
+
 - [Gradient Decomposition and Alignment for Incremental Object Detection](https://openaccess.thecvf.com/content/ICCV2025/papers/Luo_Gradient_Decomposition_and_Alignment_for_Incremental_Object_Detection_ICCV_2025_paper.pdf).
 Wenlong Luo, Shizhou Zhang, De Cheng, **Yinghui Xing**, Guoqiang Liang, Peng Wang, Yanning Zhang, **ICCV**, 2025.[**Code**](https://github.com/FHR-L/GDA-IOD)
+
+<figure class="pub-figure">
+  <img src="/images/publications/gda-iod.png" alt="GDA-IOD method figure">
+</figure>
 
 - [Demystifying Catastrophic Forgetting in Two-Stage Incremental Object Detector](https://arxiv.org/abs/2502.05540).
 Qirui Wu, Shizhou Zhang, De Cheng, **Yinghui Xing**, Di Xu, Peng Wang, Yanning Zhang, **ICML**, 2025.[**Code**](https://github.com/fanrena/NSGP-RePRE)
 
+<figure class="pub-figure">
+  <img src="/images/publications/demystifying.png" alt="Demystifying Catastrophic Forgetting method figure">
+</figure>
+
 - [Prompt-Based Modality Alignment for Effective Multi-Modal Object Re-Identification](https://ieeexplore.ieee.org/abstract/document/10955143).
 Shizhou Zhang, Wenlong Luo, De Cheng, **Yinghui Xing**, Guoqiang Liang, Peng Wang, Yanning Zhang, **IEEE Transactions on Image Processing**, 2025. [**Code**](https://github.com/FHR-L/PromptMA) 
+
+<figure class="pub-figure">
+  <img src="/images/publications/promptma.png" alt="PromptMA method figure">
+</figure>
 
 - [Dual-Granularity Semantic Guided Sparse Routing Diffusion Model for General Pansharpening](https://openaccess.thecvf.com/content/CVPR2025/papers/Xing_Dual-Granularity_Semantic_Guided_Sparse_Routing_Diffusion_Model_for_General_Pansharpening_CVPR_2025_paper.pdf).
 **Yinghui Xing**, Litao Qu, Shizhou Zhang, Di Xu, Yingkun Yang, Yanning Zhang, **CVPR**, 2025.
 [**Code**](https://github.com/codgodtao/SGDiff) 
 
+<figure class="pub-figure">
+  <img src="/images/publications/sgdiff.png" alt="SGDiff method figure">
+</figure>
+
 - [Revisting Generative Replay for Class Incremental Object Detection](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Revisiting_Generative_Replay_for_Class_Incremental_Object_Detection_CVPR_2025_paper.pdf).
 Shizhou Zhang, Xueqiang Lv, **Yinghui Xing<sup>*</sup>**, Qirui Wu, Di Xu, Yanning Zhang, **CVPR**, 2025. [**Code**](https://github.com/qiangzai-lv/RGR-IOD)
+
+<figure class="pub-figure">
+  <img src="/images/publications/rgr-iod.png" alt="RGR-IOD method figure">
+</figure>
 
 - [Training Consistent Mixture-of-Experts-Based Prompt Generator for Continual Learning](https://ojs.aaai.org/index.php/AAAI/article/view/34108).
 Yue Lu, Shizhou Zhang, De Cheng, Guoqiang Liang, **Yinghui Xing**, Nannan Wang, Yanning Zhang, **Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)**, 2025.[**Code**](https://github.com/zugexiaodui/ConsistentMoEPromptGenerator)
 
+<figure class="pub-figure">
+  <img src="/images/publications/consistent-moe-prompt.png" alt="Consistent Mixture-of-Experts prompt generator method figure">
+</figure>
+
 - [Frequency-Guided Spatial Adaptation for Camouflaged Object Detection](https://ieeexplore.ieee.org/abstract/document/10844993).
 Shizhou Zhang, Dexuan Kong, **Yinghui Xing<sup>*</sup>**, Yue Lu, Lingyan Ran, Guoqiang Liang, Hexu Wang, Yanning Zhang, **IEEE Transactions on Multimedia**, 2025.[**Code**](https://github.com/zugexiaodui/FGSA-Net)
+
+<figure class="pub-figure">
+  <img src="/images/publications/fgsa-net.png" alt="FGSA-Net method figure">
+</figure>
 
 2024
 - [Dual-Branch Task Residual Enhancement with Parameter-Free Attention for Zero-Shot Multi-label Image Recognition](https://link.springer.com/chapter/10.1007/978-3-031-78312-8_11).
@@ -110,6 +178,10 @@ Shizhou Zhang, Zhang Wang, **Yinghui Xing<sup>*</sup>**, Liangkui Lin, Xiaoting 
 
 - [Visual Prompt Tuning in Null Space for Continual Learning](https://arxiv.org/abs/2406.05658).
 Yue Lu, Shizhou Zhang, De Cheng, **Yinghui Xing**, Nannan Wang, Peng Wang, Yanning Zhang, **NeuraIPS**, 2024. [**Code**](https://github.com/zugexiaodui/VPTinNSforCL)
+
+<figure class="pub-figure">
+  <img src="/images/publications/vpt-ns.png" alt="VPT-NS method figure">
+</figure>
 
 - [CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model](https://ieeexplore.ieee.org/abstract/document/10685062).
 **Yinghui Xing**, Litao Qu, Shizhou Zhang, Kai Zhang, Yanning Zhang, Lorenzo Bruzzone, **IEEE Transactions on Image Processing**, 2024.
@@ -122,6 +194,10 @@ Yue Lu, Shizhou Zhang, De Cheng, **Yinghui Xing**, Nannan Wang, Peng Wang, Yanni
 - [Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach](https://arxiv.org/abs/2408.07500).
 Shizhou Zhang, Wenlong Luo, De Cheng, Qingchun Yang, Lingyan Ran, **Yinghui Xing**, Yanning Zhang, **ECCV**, 2024.
 [**Code**](https://github.com/FHR-L/VSLA-CLIP)
+
+<figure class="pub-figure">
+  <img src="/images/publications/cross-video-reid.png" alt="Cross-platform video person ReID method figure">
+</figure>
 
 - [DDF: A Novel Dual-Domain Image Fusion Strategy for Remote Sensing Image Semantic Segmentation with Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/abstract/document/10620432).
 Lingyan Ran, Lushuang Wang, Tao Zhuo, **Yinghui Xing**, Houjun He, Yanning Zhang, **IEEE Transactions on Geoscience and Remote Sensing**, 2024.
@@ -160,6 +236,10 @@ Xiuwei Zhang, Yi Sun, Yamin Han, Yanping Li, Hanlin Yin, **Yinghui Xing**, Yanni
 - [Dual modality prompt tuning for vision-language pre-trained model](https://ieeexplore.ieee.org/abstract/document/10171397).
 **Yinghui Xing**, Qirui Wu, De Cheng, Shizhou Zhang, Guoqiang Liang, Peng Wang, Yanning Zhang, **IEEE Transactions on Multimedia**, 2023.
 [**Code**](https://github.com/fanrena/DPT)
+
+<figure class="pub-figure">
+  <img src="/images/publications/dpt.png" alt="DPT method figure">
+</figure>
 
 - [Runoff predictions in new-gauged basins using two transformer-based models](https://www.sciencedirect.com/science/article/pii/S0022169423006261).
 Hanlin Yin, Wu Zhu, Xiuwei Zhang, **Yinghui Xing**, Runliang Xia, Jifeng Liu, Yanning Zhang, **Journal of Hydrology**, 2023.
