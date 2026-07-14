@@ -24,7 +24,10 @@ In recent years, I have published more than 40 papers in leading journals and co
 In 2023, I was selected for the Xi’an Association for Science and Technology Young Talent Support Program. In 2025, I was selected for the Northwestern Polytechnical University Aoxiang Rising Star Talent Program and the Chinese Institute of Electronics Young Talent Support Program.
 
 # 🔥 News
-- *2026.03.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP. Congrats to Zhilong!.
+- *2026.07.10*: &nbsp;🎉🎉 Five papers are accepted by ACM MM.
+- *2026.06.02*: &nbsp;🎉🎉 One survey paper is accepted by Acta Automatica Sinica. Congrats to Jiaxin!
+- *2026.05.01*: &nbsp;🎉🎉 Two papers are accepted by ICML. Congrats to Donghao and Xueqiang!
+- *2026.03.07*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP. Congrats to Zhilong!
 - *2026.02.02*: &nbsp;🎉🎉 One paper is accepted by IEEE TMM.
 - *2025.12.18*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS.
 - *2025.12.7*: &nbsp;🎉🎉 One paper is accepted by IEEE TPAMI.
@@ -48,6 +51,22 @@ In 2023, I was selected for the Xi’an Association for Science and Technology Y
 
 # 📝 Publications 
 2026
+<div class="publication-card">
+  <a class="publication-card__image" href="https://arxiv.org/abs/2602.20616"><img src="/images/publications/IPOW.png" alt="IPOW method figure"></a>
+  <div class="publication-card__content">
+    <p class="publication-card__title"><a href="https://arxiv.org/abs/2602.20616">Knowing the Unknown: Interpretable Open-World Object Detection via Concept Decomposition Model</a></p>
+    <p>Xueqiang Lv, Shizhou Zhang, <strong>Yinghui Xing</strong>, Di Xu, Peng Wang, Yanning Zhang, <strong>ICML</strong>, 2026. <a href="https://github.com/qiangzai-lv/IPOW"><strong>Code</strong></a></p>
+  </div>
+</div>
+
+<div class="publication-card">
+  <a class="publication-card__image" href="https://arxiv.org/abs/2606.27655"><img src="/images/publications/TEP-SAM.png" alt="TEP-SAM method figure"></a>
+  <div class="publication-card__content">
+    <p class="publication-card__title"><a href="https://arxiv.org/abs/2606.27655">Temporal-Emerged Prompting for Segment Anything in Multiframe Infrared Small Target Detection</a></p>
+    <p><strong>Yinghui Xing</strong>, Donghao Chu, Shizhou Zhang, Di Xu, <strong>ICML</strong>, 2026. <a href="https://github.com/cdh8285/TEP-SAM"><strong>Code</strong></a></p>
+  </div>
+</div>
+
 <div class="publication-card">
   <a class="publication-card__image" href="https://ieeexplore.ieee.org/document/11456845"><img src="/images/publications/less-is-more.png" alt="Less is More method figure"></a>
   <div class="publication-card__content">
@@ -336,6 +355,7 @@ Kai Zhang, Min Wang, Shuyuan Yang, **Yinghui Xing**, Rong Qu, **IEEE Journal of 
 
 
 # 🎖 Honors and Awards
+- *2026.07* I was selected as one of the science and technology stars of Northwestern Polytechnical University.
 - *2026.03* One paper was selected as the ESI highly cited paper.
 - *2025.12* I was selected for the Young Talent Support Program of the Chinese Institute of Electronics.
 - *2025.11* I was selected for the Soaring New Star of NWPU.
